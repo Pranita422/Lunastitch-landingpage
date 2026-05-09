@@ -14,4 +14,4 @@ A modern responsive landing page for a crochet fashion brand.
 - Clean layout
 
 ## Live Demo
-(Add GitHub Pages link here)
+https://github.com/Pranita422/Lunastitch-landingpage.git
